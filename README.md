@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9F70DC&height=120&section=header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?
-color=2E003E&size=35&center=true&vCenter=true&width=1000&lin es=HELLO,+My+name+is+Felipe+Casco;+I'm+32+years+old;+I'm+from+Brazil;+Degree+in+Production+Engineer;+Data+Analyst;+UX/UI+Digital+Products;+I’m+currently+learning+Data+Scientist;+Be+Welcome!+:%29)](htt ps://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E003E&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Felipe+Casco;+I'm+32+years+old;+I'm+from+Brazil;+Degree+in+Production+Engineer;+Data+Analyst;+UX/UI+Digital+Products;+I’m+currently+learning+Data+Science;+Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 ### Main skills: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
