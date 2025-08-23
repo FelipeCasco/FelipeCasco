@@ -4,13 +4,16 @@
 
 ### Main skills: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
-![POWERBI](https://img.shields.io/badge/-POWERBI-0D1117?style=for-the-badge&logo=sql&labelColor=E01212)&nbsp;
-![LOOKER](https://img.shields.io/badge/-LOOKER-0D1117?style=for-the-badge&logo=sql&labelColor=D0AF00)&nbsp;
-![BIMACHINE](https://img.shields.io/badge/-BIMACHINE-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
-![FIGMA](https://img.shields.io/badge/-FIGMA-0D1117?style=for-the-badge&logo=sql&labelColor=009CD0)&nbsp;
-![JIRA](https://img.shields.io/badge/-JIRA-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
-![IA](https://img.shields.io/badge/-IA-0D1117?style=for-the-badge&logo=sql&labelColor=9F70DC)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-316192?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+![SQLPOST](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![POWERBI](https://img.shields.io/badge/-POWERBI-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)&nbsp;
+![LOOKER](https://img.shields.io/badge/LOOKER%20STUDIO-D0AF00?style=for-the-badge&logo=google%20analytics&logoColor=white)&nbsp;
+![BIMACHINE](https://img.shields.io/badge/-BIMACHINE-0D1117?style=for-the-badge&logo=google%20analytics&logoColor=white)&nbsp;
+![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white);
+![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![FRAMER](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)&nbsp;
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
+![IA](https://img.shields.io/badge/-IA-9F70DC?style=for-the-badge&logo=sql&labelColor=9F70DC)&nbsp;
 
 Here are some ideas to get you started:
 
