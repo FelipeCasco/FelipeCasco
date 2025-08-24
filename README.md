@@ -15,13 +15,36 @@
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
 ![IA](https://img.shields.io/badge/-IA-9F70DC?style=for-the-badge&logo=sql&labelColor=9F70DC)&nbsp;
 
-Here are some ideas to get you started:
+With a degree in Production Engineering and ongoing postgraduate studies in User Experience (UX/UI) and Digital Products, I have developed a strategic approach to integrating data, technology, and user needs. My career is marked by a constant pursuit of learning, adaptability to new challenges, and a focus on delivering impactful business solutions.
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔑 Key Achievements:
+
+Business Intelligence at Grupo Paquetá: Led data projects for multi-brand and single-brand retail, creating ETL models, dashboards, and KPIs to optimize internal processes and support strategic decision-making.
+
+Sport Club Internacional: Acted as Project Owner (PO) for the "Mundo Colorado" project, managing stakeholder relationships, aligning business expectations, and using market analysis to solve B2C and B2B challenges.
+
+Agile Methods: Applied agile frameworks to improve efficiency and quality in multidisciplinary projects.
+
+- 👯 I’m looking to collaborate on:
+
+Data Analysis (ETL, KPIs, Dashboards)
+
+Data Science (Python, SQL, Statistics) 
+
+Project Management & Product Ownership
+
+UX/UI & Design Thinking
+
+BI Tools (Power BI, Tableau, etc.)
+
+Stakeholder Communication
+
+Problem-Solving
+
+- ⚡ Fun fact: In my free time, I enjoy artistic activities like music and theater, which enhance my creativity and teamwork skills. I believe art and technology are complementary pillars for innovation.
+
+- 📫 How to reach me: WhatsApp (+55 51 997443387) / LinkedIn ( www.linkedin.com/in/felipe-casco-a4a6659b )
+
+- 💬 Always open to new connections and collaboration opportunities. Let’s connect!
+
+
