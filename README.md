@@ -46,9 +46,12 @@ Problem-Solving
 ## 👤 Autor
 **Felipe Rocha Casco**  
 📫 How to reach me: 
-![WhatsApp](+55 51 997443387); 
-![LinkedIn][Felipe-Casco]([www.linkedin.com/in/felipe-casco-a4a6659b](https://www.linkedin.com/in/felipe-casco-a4a6659b/);
-📧 ![feliperochacasco@yahoo.com.br](mailto:feliperochacasco@yahoo.com.br);  
+
+[WhatsApp](+55 51 997443387);
+
+[LinkedIn][Felipe-Casco]([www.linkedin.com/in/felipe-casco-a4a6659b](https://www.linkedin.com/in/felipe-casco-a4a6659b/);
+
+📧 [feliperochacasco@yahoo.com.br](mailto:feliperochacasco@yahoo.com.br);  
 
 ## 💬 Always open to new connections and collaboration opportunities. Let’s connect!
 
